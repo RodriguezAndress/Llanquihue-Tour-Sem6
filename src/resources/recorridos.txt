@@ -1,0 +1,8 @@
+ServicioTuristico,Recorrido Centro Historico,1.45
+ServicioTuristico,Buceo con Tiburones,3.3
+RutaGastronomica,Recorrido Paseo Montalban,2.45,5
+RutaGastronomica,Camino Historico Precolonial,2.3,6
+PaseoLacustre,Lago Negro,1.45,Canoa
+PaseoLacustre,Laguna Piedra Azul,2.15,Canoa
+ExcursionCultural,Cerro San Cristobal,3.15,Santiago
+ExcursionCultural,Teatro Municipal de Santiago,1.45,Teatro
